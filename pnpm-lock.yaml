@@ -28,8 +28,8 @@ importers:
         specifier: ^9.1.1
         version: 9.29.0
       dotenv:
-        specifier: ^16.0.3
-        version: 16.5.0
+        specifier: ^17.2.3
+        version: 17.2.3
       eslint:
         specifier: ^9.1.0
         version: 9.29.0
@@ -596,8 +596,8 @@ packages:
     resolution: {integrity: sha512-qCJEnuQeIDIo26MPEqYlIiYokqwFAMoRsmEE0PgAuiTYNXIMB9Z40LmqlgYe0yBO+743+AOnfTQdUK1WLg8+pw==}
     engines: {node: '>=18.4.0'}
 
-  dotenv@16.5.0:
-    resolution: {integrity: sha512-m/C+AwOAr9/W1UOIZUo232ejMNnJAJtYQjUbHoNTBNTJSvqzzDh7vnrei3o3r3m9blf6ZoDkvcw0VmozNRFJxg==}
+  dotenv@17.2.3:
+    resolution: {integrity: sha512-JVUnt+DUIzu87TABbhPmNfVdBDt18BLOWjMUFJMSi/Qqg7NTYtabbvSNJGOJ7afbRuv9D/lngizHtP7QyLQ+9w==}
     engines: {node: '>=12'}
 
   end-of-stream@1.4.5:
@@ -1479,7 +1479,7 @@ snapshots:
 
   discord-interactions@4.3.0: {}
 
-  dotenv@16.5.0: {}
+  dotenv@17.2.3: {}
 
   end-of-stream@1.4.5:
     dependencies:
