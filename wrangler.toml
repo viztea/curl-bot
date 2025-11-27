@@ -1,0 +1,7 @@
+name = "curl-bot"
+main = "./src/server.js"
+compatibility_date = "2023-05-18"
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
